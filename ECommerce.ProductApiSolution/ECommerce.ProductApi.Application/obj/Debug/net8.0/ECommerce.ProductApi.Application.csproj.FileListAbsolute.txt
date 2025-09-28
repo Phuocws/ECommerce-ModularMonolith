@@ -1,0 +1,17 @@
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.ProductApi.Application.deps.json
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.ProductApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.ProductApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.ProductApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\bin\Debug\net8.0\ECommerce.ProductApi.Domain.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.csproj.AssemblyReference.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.AssemblyInfoInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.AssemblyInfo.cs
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerc.AE701FD8.Up2Date
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\refint\ECommerce.ProductApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ECommerce.ProductApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.ProductApiSolution\ECommerce.ProductApi.Application\obj\Debug\net8.0\ref\ECommerce.ProductApi.Application.dll

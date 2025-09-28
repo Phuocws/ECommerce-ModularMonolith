@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "ECommerce.AuthenticationApi.Presentation.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserDTO",
+        "Type": "ECommerce.AuthenticationApi.Application.DTOs.AppUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ECommerce.SharedLibrary.Response.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ECommerce.AuthenticationApi.Presentation.Controllers.AuthenticationController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Authentication/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ECommerce.AuthenticationApi.Application.DTOs.GetUserDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ECommerce.AuthenticationApi.Presentation.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "ECommerce.AuthenticationApi.Application.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ECommerce.SharedLibrary.Response.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

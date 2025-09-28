@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD3771-90A5-432C-B07C-FAD2378B9221}|UnitTest.ECommerce.ProductApi\\UnitTest.ECommerce.ProductApi.csproj|d:\\edu\\ecommercemicroserviceproject\\ecommerce.productapisolution\\unittest.ecommerce.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FD3771-90A5-432C-B07C-FAD2378B9221}|UnitTest.ECommerce.ProductApi\\UnitTest.ECommerce.ProductApi.csproj|solutionrelative:unittest.ecommerce.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEDB553-33E3-4A20-BEEC-C884DE17A587}|ECommerce.ProductApi.Infrastruture\\ECommerce.ProductApi.Infrastruture.csproj|d:\\edu\\ecommercemicroserviceproject\\ecommerce.productapisolution\\ecommerce.productapi.infrastruture\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEDB553-33E3-4A20-BEEC-C884DE17A587}|ECommerce.ProductApi.Infrastruture\\ECommerce.ProductApi.Infrastruture.csproj|solutionrelative:ecommerce.productapi.infrastruture\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FD3771-90A5-432C-B07C-FAD2378B9221}|UnitTest.ECommerce.ProductApi\\UnitTest.ECommerce.ProductApi.csproj|d:\\edu\\ecommercemicroserviceproject\\ecommerce.productapisolution\\unittest.ecommerce.productapi\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FD3771-90A5-432C-B07C-FAD2378B9221}|UnitTest.ECommerce.ProductApi\\UnitTest.ECommerce.ProductApi.csproj|solutionrelative:unittest.ecommerce.productapi\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE2208-0AC9-AFF8-3B2B-16ECDC82B592}|ECommerce.ProductApi.Domain\\ECommerce.ProductApi.Domain.csproj|d:\\edu\\ecommercemicroserviceproject\\ecommerce.productapisolution\\ecommerce.productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE2208-0AC9-AFF8-3B2B-16ECDC82B592}|ECommerce.ProductApi.Domain\\ECommerce.ProductApi.Domain.csproj|solutionrelative:ecommerce.productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\UnitTest.ECommerce.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ECommerce.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "ToolTip": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\UnitTest.ECommerce.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "UnitTest.ECommerce.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:56:29.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\UnitTest.ECommerce.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ECommerce.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ToolTip": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\UnitTest.ECommerce.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "UnitTest.ECommerce.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:56:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\ECommerce.ProductApi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.ProductApi.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\ECommerce.ProductApi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ECommerce.ProductApi.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:51:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\ECommerce.ProductApi.Infrastruture\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.ProductApi.Infrastruture\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Edu\\ECommerceMicroserviceProject\\ECommerce.ProductApiSolution\\ECommerce.ProductApi.Infrastruture\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerce.ProductApi.Infrastruture\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:46:35.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

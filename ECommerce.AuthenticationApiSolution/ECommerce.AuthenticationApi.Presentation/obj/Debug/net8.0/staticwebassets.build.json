@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rJ1BsGhgijKrbDl2s5qhudFGH7X0Owy4YVqjTt4GvIc=",
+  "Source": "ECommerce.AuthenticationApi.Presentation",
+  "BasePath": "_content/ECommerce.AuthenticationApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

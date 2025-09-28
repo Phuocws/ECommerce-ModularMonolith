@@ -1,0 +1,11 @@
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\bin\Debug\net8.0\ECommerce.OrderApi.Domain.deps.json
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\bin\Debug\net8.0\ECommerce.OrderApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\bin\Debug\net8.0\ECommerce.OrderApi.Domain.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.AssemblyInfoInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.AssemblyInfo.cs
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.csproj.CoreCompileInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\refint\ECommerce.OrderApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ECommerce.OrderApi.Domain.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Domain\obj\Debug\net8.0\ref\ECommerce.OrderApi.Domain.dll

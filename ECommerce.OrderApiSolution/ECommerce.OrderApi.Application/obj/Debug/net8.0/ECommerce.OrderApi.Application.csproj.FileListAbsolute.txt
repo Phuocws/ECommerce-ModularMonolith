@@ -1,0 +1,17 @@
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.OrderApi.Application.deps.json
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.OrderApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.OrderApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.OrderApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\bin\Debug\net8.0\ECommerce.OrderApi.Domain.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.csproj.AssemblyReference.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.AssemblyInfoInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.AssemblyInfo.cs
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.csproj.CoreCompileInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerc.456E9F70.Up2Date
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\refint\ECommerce.OrderApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ECommerce.OrderApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.OrderApiSolution\ECommerce.OrderApi.Application\obj\Debug\net8.0\ref\ECommerce.OrderApi.Application.dll

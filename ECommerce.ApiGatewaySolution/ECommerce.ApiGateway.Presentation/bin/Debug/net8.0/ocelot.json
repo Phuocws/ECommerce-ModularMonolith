@@ -1,0 +1,142 @@
+{
+  "Routes": [
+    // Authentication API
+    {
+      "DownstreamPathTemplate": "/api/authentication/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/authentication/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "60s",
+        "Limit": 1,
+        "PeriodTimespan": 10
+      }
+    },
+
+    // Product API
+    {
+      "DownstreamPathTemplate": "/api/products",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/products",
+      "UpstreamHttpMethod": [ "Get" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 60,
+        "Region": "products",
+        "Header": "ECommerce-Products-Cache-Control"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/products/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/products/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 60,
+        "Region": "products",
+        "Header": "ECommerce-Products-Cache-Control"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/products/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/products/{everything}",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+
+    // Order API
+    {
+      "DownstreamPathTemplate": "/api/orders",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api/orders",
+      "UpstreamHttpMethod": [ "Get" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 60,
+        "Region": "orders",
+        "Header": "ECommerce-Orders-Cache-Control"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/orders/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api/orders/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 60,
+        "Region": "orders",
+        "Header": "ECommerce-Orders-Cache-Control"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/orders/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "UpstreamPathTemplate": "/api/orders/{everything}",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7003",
+    "RateLimitOptions" : {
+      "QuotaExceededMessage": "Quota exceeded"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.AuthenticationApi.Application.deps.json
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.AuthenticationApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.AuthenticationApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.AuthenticationApi.Domain.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.AuthenticationApi.Domain.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.csproj.AssemblyReference.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.AssemblyInfoInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.AssemblyInfo.cs
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerc.0BA284FA.Up2Date
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\refint\ECommerce.AuthenticationApi.Application.dll
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ECommerce.AuthenticationApi.Application.pdb
+D:\Edu\ECommerceMicroserviceProject\ECommerce.AuthenticationApiSolution\ECommerce.AuthenticationApi.Application\obj\Debug\net8.0\ref\ECommerce.AuthenticationApi.Application.dll
